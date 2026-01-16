@@ -32,3 +32,18 @@ The project focuses on building strong Excel fundamentals and practical data ana
 ## Learning Outcome
 This project helped me understand how to handle dates correctly in Excel,
 debug formulas, and create interactive dashboards for financial analysis.
+
+## Screenshots
+
+### Expenses Data Entry Sheet
+![Expenses Sheet](1.jpg)
+
+### Dashboard – December 2025
+![December Dashboard](2.jpg)
+
+### Dashboard – January 2026
+![January Dashboard](3.jpg)
+
+### Dashboard – February 2026
+![February Dashboard](4.jpg)
+
