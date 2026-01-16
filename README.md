@@ -47,3 +47,6 @@ debug formulas, and create interactive dashboards for financial analysis.
 ### Dashboard – February 2026
 ![February Dashboard](4.jpg)
 
+## Contributing
+This is a personal learning project. Contributions, suggestions, or feedback are welcome via issues or pull requests.
+
